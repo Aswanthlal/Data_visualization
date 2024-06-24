@@ -2,4 +2,5 @@
 
 This project is done as a part of my data science learning journey,
 where I completed IBM Data science course on edX. 
-This project focuses on cleaning and visualizing using different visualization tools in python.
+In this project, we aer performing data wrangling to clean and prepare the data, 
+conducted thorough data analysis to understand the underlying patterns, developed a predictive model, and evaluated its performance
